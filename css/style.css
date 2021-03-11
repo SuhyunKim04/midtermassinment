@@ -1,0 +1,111 @@
+/* This is my css File*/
+body {
+    background-color: #aad4cf;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+  }
+header {
+    width: 1022px;
+    height: 342px;
+    overflow: hidden;
+    background-color: black;
+    border: 1px solid black;
+    border-bottom: none;
+    margin: 0 auto;
+    position: relative;
+    top: 0;
+}
+
+
+h1 {
+    font-size: 46px;
+    color: white;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: 170px;
+}
+.container {
+    width: 1022px;
+    margin: auto;
+    background: #d4e9e7;
+    }
+
+nav ul {
+list-style: none;
+margin: 0; padding: 0;
+text-align :center;
+font-weight: bold;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    display: inline-block;
+    margin: 0; padding: 0;
+    width: 300px;
+    text-align: center;
+    line-height: 40px;
+    text-decoration: none;
+    color: black;
+
+}
+
+h2 {
+    font-size: 27px;
+    width: 500px;
+}
+
+.whatever {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+    width: 200px;
+}
+
+.night {
+    text-align: right;
+    margin: 5px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+.noon {
+    margin: 10px;
+}
+
+.deep {
+    text-align: center;
+    padding: 8px;
+    margin-top: 10px;
+    color: none;
+    font-size: 10px;
+    background-color: none;
+}
+
+h3{
+    margin: 10px;
+    padding: 5px;
+    font-size: 22px;
+}
+
+.article {
+    margin: 10px;
+}
+
+.long{
+    width:950px;
+    height:20px;
+    font-size:20px;
+    margin-top: 5px;
+  }
+
+  .long-last {
+      width:950px;
+      height:100px;
+      font-size:20px;
+      margin-top: 10px;
+  }
